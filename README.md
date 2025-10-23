@@ -68,7 +68,7 @@ Benefits of Use Case Diagrams:
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
-[![ALX booking use case diagram](https://drive.google.com/uc?export=view&id=1L5rXOee7XOZnv364mtL1KzBz_eEqOJQw)](https://drive.google.com/file/d/1L5rXOee7XOZnv364mtL1KzBz_eEqOJQw/view?usp=sharing)
+
 #Acceptance criteria
 What is Acceptance Criteria?
 
