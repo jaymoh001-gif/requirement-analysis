@@ -68,6 +68,41 @@ Benefits of Use Case Diagrams:
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
+## 🧩 Use Case Diagrams
+
+### What are Use Case Diagrams?
+
+A **Use Case Diagram** is a visual representation of the interactions between **users (actors)** and a **system**. It helps capture the functional requirements by showing what the system does from the user’s perspective — not how it’s implemented.
+
+### Benefits of Use Case Diagrams
+- Provide a **clear overview** of the system’s functionality.  
+- Help identify **user roles** and **interactions** early in development.  
+- Improve **communication** between technical and non-technical stakeholders.  
+- Serve as a **blueprint** for defining detailed requirements and test cases.
+
+---
+
+### Booking System Use Case Diagram
+
+The diagram below represents the main actors and use cases of the booking system.
+
+**Actors:**
+- **Guest:** Browses listings, makes bookings, views booking history.
+- **Host:** Adds new listings, manages property availability, reviews bookings.
+- **Admin:** Manages users, approves listings, and monitors system activity.
+
+**Use Cases:**
+- Browse Listings  
+- View Property Details  
+- Make a Booking  
+- Cancel Booking  
+- Add/Manage Listings  
+- Approve Listings  
+- Manage Users  
+
+---
+
+![Booking System Use Case Diagram](images/alx-booking-uc.png)
 
 #Acceptance criteria
 What is Acceptance Criteria?
