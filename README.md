@@ -92,7 +92,7 @@ The diagram below shows the main actors and use cases for the booking system.
 - **Admin:** Manage users, approve listings.
 
 ---
-![Booking System Use Case Diagram]Booking System Use Case Diagram.png
+![Booking System Use Case Diagram]https://github.com/jaymoh001-gif/requirement-analysis/commit/b3dd8e88d9cc481eeec40e505f079c4707ba0b0a
 #Acceptance criteria
 What is Acceptance Criteria?
 
