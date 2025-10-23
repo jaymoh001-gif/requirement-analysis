@@ -102,7 +102,8 @@ The diagram below represents the main actors and use cases of the booking system
 
 ---
 
-![Booking System Use Case Diagram]Booking System Use Case Diagram.png
+https://raw.githubusercontent.com/<username>/<repo>/main/images/alx-booking-uc.png
+
 #Acceptance criteria
 What is Acceptance Criteria?
 
